@@ -1,4 +1,4 @@
-# Projrcts Related to DOM 
+# Projects Related to DOM 
 
 ## Projects Link 
 [click here](https://stackblitz.com/edit/dom-project-chaiaurcode?file=index.html)
