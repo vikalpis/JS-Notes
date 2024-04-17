@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chai aur Code</title>
+</head>
+<body style="background-color: #212121; color: #fff;">
+    
+</body>
+<script>
+    const duv = document.createElement('div')
+    console.log(duv);
+    duv.className = "main"
+    duv.id = Math.round(Math.random() * 10 + 1)
+    duv.setAttribute("title", "generated title")
+    duv.style.backgroundColor = "green"
+    duv.style.padding = "12px"
+    // duv.innerText= "chai aur code"
+   const addtxt=  document.createTextNode("chai aur Code")
+   duv.appendChild(addtxt)
+
+   document.body.appendChild(duv)
+</script>
+</html>
