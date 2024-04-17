@@ -1,0 +1,1 @@
+jsuser[mysym]
